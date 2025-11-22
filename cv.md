@@ -4,10 +4,10 @@
 ---
 
 ## 📧 Contact Information
-- **Email:** Mohamed.Abdalkader@gmail.com
+- **Email:** Mohameed.Abdalkadeer@gmail.com
 - **Phone:** (+20) 102 327 7913
-- **LinkedIn:** https://linkedin.com/in/mohamed-abdalkader
-- **GitHub:** https://github.com/mohamed-abdalkader
+- **LinkedIn:** https://www.linkedin.com/in/mo-abdalkader/
+- **GitHub:** https://github.com/Mo-Abdalkader/
 - **Location:** Cairo, Egypt
 
 ---
