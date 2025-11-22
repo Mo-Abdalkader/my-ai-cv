@@ -294,6 +294,6 @@ Seeking opportunities to:
 
 ---
 
-*Last Updated: November 2024 | آخر تحديث: نوفمبر 2024*
+*Last Updated: November 2025 | آخر تحديث: نوفمبر 2025*
 
 **Note | ملاحظة:** This CV is used by my AI Telegram bot to answer questions in both Arabic and English | تُستخدم هذه السيرة الذاتية بواسطة البوت الذكي للإجابة على الأسئلة بالعربية والإنجليزية
