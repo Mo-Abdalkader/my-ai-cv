@@ -4,7 +4,7 @@
 ---
 
 ## 📧 Contact Information | معلومات التواصل
-- **Email | البريد الإلكتروني:** Mohamed.Abdalkader@gmail.com
+- **Email | البريد الإلكتروني:** Mohameed.Abdalkadeer@gmail.com
 - **Phone | الهاتف:** +201023277913
 - **LinkedIn | لينكد إن:** https://www.linkedin.com/in/mo-abdalkader/
 - **GitHub | جيت هاب:** https://github.com/Mo-Abdalkader/
@@ -270,8 +270,8 @@ I'm always interested in discussing:
 - الاستشارات المستقلة
 
 **Contact | التواصل:**
-- **Email | البريد:** Mohamed.Abdalkader@gmail.com
-- **LinkedIn | لينكد إن:** https://linkedin.com/in/mo-abdalkader
+- **Email | البريد:** Mohameed.Abdalkadeer@gmail.com
+- **LinkedIn | لينكد إن:** https://www.linkedin.com/in/mo-abdalkader/
 - **AI Bot | البوت الذكي:** t.me/mo_info_ai_bot
 
 ---
