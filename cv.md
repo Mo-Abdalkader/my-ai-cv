@@ -16,14 +16,14 @@ This README is the canonical knowledge source for the Mohamed Abdalkader CV bot.
 ## 📧 Contact Information | معلومات التواصل
 **English:**  
 - **Email:** Mohameed.Abdalkadeer@gmail.com  
-- **Phone:** +20 102 327 7913  
+- **Phone:** +201023277913  
 - **LinkedIn:** https://www.linkedin.com/in/mo-abdalkader/  
 - **GitHub:** https://github.com/Mo-Abdalkader/  
 - **Location:** Cairo, Egypt
 
 **العربية:**  
 - **البريد الإلكتروني:** Mohameed.Abdalkadeer@gmail.com  
-- **الهاتف:** +20 102 327 7913  
+- **الهاتف:** +201023277913  
 - **لينكد إن:** https://www.linkedin.com/in/mo-abdalkader/  
 - **جيت هاب:** https://github.com/Mo-Abdalkader/  
 - **الموقع:** القاهرة، مصر
