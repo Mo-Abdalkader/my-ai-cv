@@ -1,241 +1,299 @@
-# Mohamed Abdalkader
-## AI/ML Engineer
+# Mohamed Abdalkader | محمد عبد القادر
+## AI/ML Engineer | مهندس ذكاء اصطناعي
 
 ---
 
-## 📧 Contact Information
-- **Email:** Mohameed.Abdalkadeer@gmail.com
-- **Phone:** +201023277913
-- **LinkedIn:** https://www.linkedin.com/in/mo-abdalkader/
-- **GitHub:** https://github.com/Mo-Abdalkader/
-- **Location:** Cairo, Egypt
+## 📧 Contact Information | معلومات التواصل
+- **Email | البريد الإلكتروني:** Mohamed.Abdalkader@gmail.com
+- **Phone | الهاتف:** +201023277913
+- **LinkedIn | لينكد إن:** https://www.linkedin.com/in/mo-abdalkader/
+- **GitHub | جيت هاب:** https://github.com/Mo-Abdalkader/
+- **Location | الموقع:** Cairo, Egypt | القاهرة، مصر
 
 ---
 
-## 👨‍💻 Professional Summary
+## 👨‍💻 Professional Summary | الملخص المهني
 
-Production-Focused AI/ML Engineer with 1+ year of high-intensity experience, specializing in:
-- Computer Vision
-- Large Language Models (LLMs)
-- Vision Language Models (VLMs)
-- Deep Learning system deployment (DenseNet, YOLO, EfficientNet, Qwen)
+**English:**
+Production-Focused AI/ML Engineer with 1+ year of high-intensity experience, specializing in Computer Vision, Large Language Models (LLMs), Vision Language Models (VLMs), and Deep Learning system deployment (DenseNet, YOLO, EfficientNet, Qwen). Proven expertise in building, containerizing (Docker/Kubernetes), optimizing, and deploying high-accuracy, low-latency models for real-time applications. Fluent across the full MLOps lifecycle, proficient in Python, PyTorch, TensorFlow, RAG architectures, and Azure AI services.
 
-I have proven expertise in building, containerizing (Docker/Kubernetes), optimizing, and deploying high-accuracy, low-latency models for real-time applications. I am fluent across the full MLOps lifecycle, proficient in Python, PyTorch, TensorFlow, RAG architectures, and Azure AI services. I also have a track record of securing competitive research funding.
+**العربية:**
+مهندس ذكاء اصطناعي وتعلم آلي متخصص في الإنتاج مع خبرة أكثر من سنة، متخصص في رؤية الكمبيوتر، نماذج اللغة الكبيرة (LLMs)، نماذج اللغة البصرية (VLMs)، ونشر أنظمة التعلم العميق. خبرة مثبتة في بناء وتحسين ونشر النماذج عالية الدقة ومنخفضة الزمن الكامن للتطبيقات الفورية. إتقان كامل لدورة MLOps، ومهارات متقدمة في Python و PyTorch و TensorFlow وبنى RAG وخدمات Azure AI.
 
 ---
 
-## 🏆 Research & Awards
+## 🏆 Research & Awards | الأبحاث والجوائز
 
 ### Information Technology Academia Collaboration (ITAC)
 **Research Grant: 70,000 EGP | July 2023**
+**منحة بحثية: 70,000 جنيه | يوليو 2023**
+
 - Secured and managed a competitive research grant to develop high-reliability Deep Learning models for specialized industrial predictive applications
+- حصلت على منحة بحثية تنافسية لتطوير نماذج تعلم عميق عالية الموثوقية للتطبيقات الصناعية التنبؤية المتخصصة
 
 ### Academy of Scientific Research and Technology (ASRT)
 **Research Grant: 35,000 EGP | August 2023**
+**منحة بحثية: 35,000 جنيه | أغسطس 2023**
+
 - Awarded a competitive research grant to explore and optimize the integration of AI-IoT architectures for renewable energy systems
+- حصلت على منحة بحثية تنافسية لاستكشاف وتحسين دمج معماريات الذكاء الاصطناعي وإنترنت الأشياء لأنظمة الطاقة المتجددة
 
 ### IEEE Graduation Project Competition
 **Award Recognition | August 2023**
-- Led a team to competitive recognition for Graduation Project, validating the quality of research and technical execution in a peer-reviewed national setting
+**تقدير وجائزة | أغسطس 2023**
+
+- Led a team to competitive recognition for Graduation Project
+- قدت فريقاً للحصول على تقدير تنافسي في مسابقة مشروع التخرج من IEEE
 
 ---
 
-## 💼 Professional Experience
+## 💼 Professional Experience | الخبرات المهنية
 
-### Freelance AI/ML Engineer
+### Freelance AI/ML Engineer | مهندس ذكاء اصطناعي مستقل
 **September 2024 – Present | Remote**
+**سبتمبر 2024 – حتى الآن | عن بُعد**
 
-Key Achievements:
-- Engineered and fine-tuned Large Language Models (LLMs) and Vision Language Models (VLMs) for specialized medical imaging applications
-- Achieved 10% performance improvement in eye disease classification compared to baseline Qwen2.5 7B model
-- Implemented Retrieval-Augmented Generation (RAG) architectures to enhance model accuracy and contextual relevance for domain-specific healthcare queries
-- Integrated vector databases and semantic search capabilities
-- Developed end-to-end machine learning solutions for clients across healthcare and technology sectors
-- Focused on production-grade deployment, model optimization, and performance monitoring
-- Applied advanced prompt engineering, parameter-efficient fine-tuning (PEFT), and model quantization techniques to optimize inference latency while maintaining high accuracy standards
+**Key Achievements | الإنجازات الرئيسية:**
+- Engineered and fine-tuned LLMs and VLMs for specialized medical imaging applications, achieving 10% performance improvement
+- هندسة وضبط نماذج اللغة الكبيرة ونماذج اللغة البصرية للتطبيقات الطبية، مع تحسين الأداء بنسبة 10%
+- Implemented RAG architectures to enhance model accuracy for healthcare queries
+- تطبيق بنى RAG لتحسين دقة النماذج للاستعلامات الطبية
+- Developed end-to-end ML solutions for healthcare and technology sectors
+- تطوير حلول تعلم آلي متكاملة لقطاعات الرعاية الصحية والتكنولوجيا
+- Applied advanced prompt engineering and PEFT techniques
+- تطبيق تقنيات هندسة التوجيهات المتقدمة وتقنيات الضبط الفعال
 
 ### Neuronetix
 **AI Virtual Internship | August 2024 – September 2024**
+**تدريب افتراضي في الذكاء الاصطناعي | أغسطس - سبتمبر 2024**
 
-Key Achievements:
-- Finalized a Heart Disease Prediction model using optimized ensemble learning (XGBoost and Random Forest)
-- Achieved AUC of 0.92 and F1-score of 0.89 on an independent validation set
-- Secured Top 3 ranking (out of 150 participants) in Telecom Customer Churn Prediction hackathon
-- Developed a robust LightGBM model that achieved 93.5% predictive accuracy
+**Key Achievements | الإنجازات:**
+- Heart Disease Prediction model: AUC 0.92, F1-score 0.89
+- نموذج التنبؤ بأمراض القلب: AUC 0.92، F1-score 0.89
+- Top 3 ranking (out of 150 participants) in Telecom Churn Prediction hackathon
+- مركز ثالث (من 150 مشارك) في هاكاثون التنبؤ بتسرب العملاء
+- LightGBM model achieving 93.5% accuracy
+- نموذج LightGBM بدقة 93.5%
 
 ### ShAI
 **AI Internship | March 2024 – June 2024**
+**تدريب في الذكاء الاصطناعي | مارس - يونيو 2024**
 
-Key Achievements:
-- Built and tuned a Random Forest regression model for Diamond Price Prediction
-- Reduced Mean Absolute Error (MAE) to under 50 USD, demonstrating precision in handling high-variance tabular financial data
-- Classified 5,000+ samples for Music Genre Classification using XGBoost on extracted tabular features (Mel-Frequency Cepstral Coefficients/MFCCs)
-- Achieved cross-validated 95% accuracy
+**Key Achievements | الإنجازات:**
+- Diamond Price Prediction: MAE under 50 USD
+- التنبؤ بأسعار الألماس: خطأ متوسط أقل من 50 دولار
+- Music Genre Classification: 95% accuracy on 5,000+ samples
+- تصنيف الأنواع الموسيقية: دقة 95% على أكثر من 5000 عينة
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Technical Skills | المهارات التقنية
 
-### MLOps & Deployment
+### MLOps & Deployment | العمليات والنشر
 Docker, Kubernetes (K8s), FastAPI, MLflow, Git/GitHub, Gunicorn, Airflow, Streamlit
 
-### Deep Learning Frameworks
-PyTorch (Preferred), TensorFlow, Keras, Hugging Face Transformers
+### Deep Learning Frameworks | أطر التعلم العميق
+PyTorch (Preferred | المفضل), TensorFlow, Keras, Hugging Face Transformers
 
-### LLMs & Advanced AI
-Qwen2.5, RAG (Retrieval-Augmented Generation), Fine-tuning, Prompt Engineering, LangChain, Vector Databases
+### LLMs & Advanced AI | نماذج اللغة والذكاء الاصطناعي المتقدم
+Qwen2.5, RAG, Fine-tuning, Prompt Engineering, LangChain, Vector Databases
 
-### Cloud Platforms
-- Azure AI (IoT Hub, ML Studio, AKS)
-- AWS (EC2, S3, Sagemaker - Concepts)
-- Google Cloud Platform (GCP)
+### Cloud Platforms | المنصات السحابية
+Azure AI (IoT Hub, ML Studio, AKS), AWS (EC2, S3, Sagemaker), Google Cloud Platform (GCP)
 
-### Computer Vision & NLP
+### Computer Vision & NLP | رؤية الكمبيوتر ومعالجة اللغة
 OpenCV, YOLOv7/v8, EfficientNet, DenseNet, MediaPipe, NLTK, spaCy, BERT
 
-### Core ML & Statistics
+### Core ML & Statistics | التعلم الآلي والإحصاء
 Scikit-learn, Pandas, NumPy, XGBoost, LightGBM, Ensemble Methods, Time Series (LSTM/GRU)
 
-### Programming & Tools
+### Programming & Tools | البرمجة والأدوات
 Python, SQL, Java (Familiarity), Jupyter Notebook, Power BI, Tableau
 
 ---
 
-## 🚀 Key Projects
+## 🚀 Key Projects | المشاريع الرئيسية
 
-### 1. Lung & Colon Cancer Detection
-**Technologies:** TensorFlow, DenseNet, Flask, Docker
+### 1. Lung & Colon Cancer Detection | كشف سرطان الرئة والقولون
+**Technologies | التقنيات:** TensorFlow, DenseNet, Flask, Docker
 
-Key Features:
-- Engineered custom CNN architecture based on DenseNet for histopathological image classification across 15,000+ samples
-- Achieved 97% classification accuracy with 4% improvement over VGG16 baseline
-- Established a robust production API endpoint using Flask and Gunicorn
-- Containerized with Docker for standardized deployment
-- Implemented end-to-end ML pipeline including data preprocessing, model training, transfer learning, validation, and rigorous performance evaluation
+**English:**
+- Custom CNN architecture for histopathological image classification across 15,000+ samples
+- 97% classification accuracy with 4% improvement over VGG16
+- Production API endpoint using Flask and Gunicorn
+- Full Docker containerization
 
-**GitHub:** https://github.com/mohamed-abdalkader/lung-colon-cancer-detection
+**العربية:**
+- معمارية CNN مخصصة لتصنيف الصور المرضية على أكثر من 15,000 عينة
+- دقة تصنيف 97% مع تحسين 4% عن VGG16
+- نقطة نهاية API إنتاجية باستخدام Flask و Gunicorn
+- حاوية Docker كاملة
 
----
-
-### 2. Low-Latency Computer Vision Gesture Recognition Pipeline
-**Technologies:** Python, OpenCV, MediaPipe, Docker, FastAPI
-
-Key Features:
-- Engineered a low-latency pipeline leveraging MediaPipe and OpenCV
-- Optimized to deliver sub-20ms latency and sustain 60 Frames Per Second (FPS)
-- Packaged entire system into a lightweight Docker container
-- Exposed inference service via FastAPI endpoint to ensure low-overhead, platform-independent execution
-
-**GitHub:** https://github.com/mohamed-abdalkader/gesture-recognition
+**GitHub:** https://github.com/Mo-Abdalkader/lung-colon-cancer-detection
 
 ---
 
-### 3. AI-IoT for Renewable Energy Forecasting
-**Technologies:** Python, LSTM, Azure IoT Hub
+### 2. Low-Latency Gesture Recognition | التعرف على الإيماءات بزمن كامن منخفض
+**Technologies | التقنيات:** Python, OpenCV, MediaPipe, Docker, FastAPI
 
-Key Features:
-- Developed and deployed multi-sequence LSTM models for 24-hour ahead energy prediction
-- Achieved 98% predictive accuracy on real sensor data
-- Reduced Mean Absolute Percentage Error (MAPE) by 10% compared to traditional baselines
-- Utilized Azure IoT Hub for high-volume sensor data ingestion
+**English:**
+- Low-latency pipeline with sub-20ms latency
+- Sustains 60 FPS
+- Lightweight Docker container
+- FastAPI endpoint for inference
 
-**GitHub:** https://github.com/mohamed-abdalkader/energy-forecasting
+**العربية:**
+- خط أنابيب بزمن كامن أقل من 20 مللي ثانية
+- يدعم 60 إطار في الثانية
+- حاوية Docker خفيفة الوزن
+- نقطة نهاية FastAPI للاستدلال
+
+**GitHub:** https://github.com/Mo-Abdalkader/gesture-recognition
 
 ---
 
-## 🎓 Education
+### 3. AI-IoT for Renewable Energy Forecasting | الذكاء الاصطناعي وإنترنت الأشياء للطاقة المتجددة
+**Technologies | التقنيات:** Python, LSTM, Azure IoT Hub
+
+**English:**
+- Multi-sequence LSTM models for 24-hour ahead energy prediction
+- 98% predictive accuracy on real sensor data
+- 10% MAPE reduction compared to baselines
+- Azure IoT Hub integration
+
+**العربية:**
+- نماذج LSTM متعددة التسلسل للتنبؤ بالطاقة لـ 24 ساعة قادمة
+- دقة تنبؤية 98% على بيانات المستشعرات الحقيقية
+- تقليل خطأ النسبة المئوية بنسبة 10% مقارنة بالنماذج التقليدية
+- تكامل مع Azure IoT Hub
+
+**GitHub:** https://github.com/Mo-Abdalkader/energy-forecasting
+
+---
+
+## 🎓 Education | التعليم
 
 ### Faculty of Computers and Informatics, Zagazig University
+### كلية الحاسبات والمعلومات، جامعة الزقازيق
 **Bachelor's Degree in Computer Science | September 2019 – July 2023**
+**درجة البكالوريوس في علوم الحاسب | سبتمبر 2019 – يوليو 2023**
 
-Relevant Coursework:
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- Data Structures
-- Algorithms
-- Database Systems
-- Software Engineering
+**Relevant Coursework | المواد ذات الصلة:**
+- Machine Learning | التعلم الآلي
+- Deep Learning | التعلم العميق
+- Computer Vision | رؤية الكمبيوتر
+- Data Structures | هياكل البيانات
+- Algorithms | الخوارزميات
+- Database Systems | نظم قواعد البيانات
+- Software Engineering | هندسة البرمجيات
 
 ---
 
-## 📜 Professional Development & Certifications
+## 📜 Professional Development & Certifications | التطوير المهني والشهادات
 
 ### Digital Egypt Pioneers Initiative (DEPI)
-**Machine Learning Engineer Scholarship (Microsoft Track) | April 2024 – October 2024**
+### مبادرة رواد مصر الرقمية
+**Machine Learning Engineer Scholarship (Microsoft Track)**
+**منحة مهندس تعلم آلي (مسار مايكروسوفت)**
+**April 2024 – October 2024 | أبريل 2024 – أكتوبر 2024**
 
-Program Highlights:
-- Completed an intensive, highly competitive 6-month scholarship program
-- Sponsored by the Egyptian government in partnership with Microsoft
-- Focused on production-grade Machine Learning Engineering and MLOps practices
-- Gained hands-on experience with end-to-end ML pipeline development
+- Intensive 6-month scholarship program by Egyptian government and Microsoft
+- برنامج منحة مكثف لمدة 6 أشهر من الحكومة المصرية ومايكروسوفت
+- Production-grade ML Engineering and MLOps practices
+- ممارسات هندسة التعلم الآلي والعمليات على مستوى الإنتاج
 - Cloud deployment on Azure
-- Containerization with Docker
-- Model deployment best practices
+- النشر السحابي على Azure
+- Docker containerization
+- الحاويات باستخدام Docker
 
-### Deep Learning Specialization
+### Deep Learning Specialization | تخصص التعلم العميق
 **DeepLearning.AI | Stanford University (Coursera) | October 2024**
-- Completed 5-course specialization covering neural networks, CNNs, RNNs, and deep learning best practices
+- 5-course specialization covering neural networks, CNNs, RNNs
+- تخصص من 5 دورات يغطي الشبكات العصبية، CNN، RNN
 
-### Machine Learning Specialization
+### Machine Learning Specialization | تخصص التعلم الآلي
 **Andrew Ng, Stanford University (Coursera) | April 2022**
-- Comprehensive foundation in machine learning algorithms, supervised and unsupervised learning
+- Comprehensive foundation in machine learning algorithms
+- أساس شامل في خوارزميات التعلم الآلي
 
 ---
 
-## 🌟 Soft Skills
+## 🌟 Soft Skills | المهارات الشخصية
 
-### Problem-Solving
-- Solved 100+ problems on platforms like LeetCode and Codeforces
+### Problem-Solving | حل المشكلات
+- Solved 100+ problems on LeetCode and Codeforces
+- حل أكثر من 100 مشكلة على LeetCode و Codeforces
 - Strong analytical and debugging skills
+- مهارات تحليلية قوية وتصحيح الأخطاء
 
-### Adaptability & Learning
-- Quickly master new frameworks (e.g., K8s, MLflow, LLMs) in fast-paced engineering environments
-- Self-directed learner who stays current with latest AI/ML trends
+### Adaptability & Learning | القدرة على التكيف والتعلم
+- Quickly master new frameworks (K8s, MLflow, LLMs)
+- إتقان سريع للأطر الجديدة (K8s، MLflow، LLMs)
+- Stay current with latest AI/ML trends
+- متابعة أحدث اتجاهات الذكاء الاصطناعي
 
-### Collaboration
-- Proven ability to lead and contribute effectively in technical teams
-- Experience working with cross-functional teams
+### Collaboration | العمل الجماعي
+- Lead and contribute effectively in technical teams
+- القيادة والمساهمة الفعالة في الفرق التقنية
+- Experience with cross-functional teams
+- خبرة مع الفرق متعددة التخصصات
 
-### Communication
-- Effectively communicate complex technical concepts and model limitations to non-technical stakeholders
-- Experience presenting technical findings to diverse audiences
+### Communication | التواصل
+- Communicate complex technical concepts to non-technical stakeholders
+- توصيل المفاهيم التقنية المعقدة لأصحاب المصلحة غير التقنيين
+- Present technical findings to diverse audiences
+- تقديم النتائج التقنية لجماهير متنوعة
 
 ---
 
-## 🌐 Languages
+## 🌐 Languages | اللغات
 
-- **Arabic:** Native
-- **English:** Fluent (Professional working proficiency)
+- **Arabic | العربية:** Native | اللغة الأم
+- **English | الإنجليزية:** Fluent (Professional working proficiency) | طلاقة (كفاءة عمل مهنية)
 
 ---
 
-## 📫 Let's Connect!
+## 📫 Let's Connect! | دعونا نتواصل!
 
+**English:**
 I'm always interested in discussing:
 - AI/ML opportunities
 - Collaboration on innovative projects
 - Research partnerships
 - Freelance consulting
 
-Feel free to reach out via:
-- **Email:** Mohamed.Abdalkader@gmail.com
-- **LinkedIn:** https://linkedin.com/in/mohamed-abdalkader
-- **AI Assistant Bot:** t.me/mohamed_ai_bot (Try asking me questions!)
+**العربية:**
+أنا دائماً مهتم بمناقشة:
+- فرص الذكاء الاصطناعي والتعلم الآلي
+- التعاون في المشاريع المبتكرة
+- الشراكات البحثية
+- الاستشارات المستقلة
+
+**Contact | التواصل:**
+- **Email | البريد:** Mohamed.Abdalkader@gmail.com
+- **LinkedIn | لينكد إن:** https://linkedin.com/in/mo-abdalkader
+- **AI Bot | البوت الذكي:** t.me/mo_info_ai_bot
 
 ---
 
-## 🎯 Career Goals
+## 🎯 Career Goals | الأهداف المهنية
 
-I'm seeking opportunities to:
+**English:**
+Seeking opportunities to:
 - Apply AI/ML solutions to real-world problems
 - Work with cutting-edge LLM and computer vision technologies
 - Contribute to innovative products in healthcare, fintech, or tech industries
 - Collaborate with talented teams on challenging projects
-- Continue growing expertise in MLOps and production AI systems
+
+**العربية:**
+أبحث عن فرص لـ:
+- تطبيق حلول الذكاء الاصطناعي على مشاكل حقيقية
+- العمل مع تقنيات نماذج اللغة ورؤية الكمبيوتر المتطورة
+- المساهمة في منتجات مبتكرة في الرعاية الصحية أو التكنولوجيا المالية
+- التعاون مع فرق موهوبة في مشاريع صعبة
 
 ---
 
-*Last Updated: November 2024*
+*Last Updated: November 2024 | آخر تحديث: نوفمبر 2024*
 
-**Note:** This CV is used by my AI Telegram bot to answer questions about my professional background. The bot provides accurate, real-time information based on this document.
+**Note | ملاحظة:** This CV is used by my AI Telegram bot to answer questions in both Arabic and English | تُستخدم هذه السيرة الذاتية بواسطة البوت الذكي للإجابة على الأسئلة بالعربية والإنجليزية
