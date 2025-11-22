@@ -5,7 +5,7 @@
 
 ## 📧 Contact Information
 - **Email:** Mohameed.Abdalkadeer@gmail.com
-- **Phone:** (+20)1023277913
+- **Phone:** +201023277913
 - **LinkedIn:** https://www.linkedin.com/in/mo-abdalkader/
 - **GitHub:** https://github.com/Mo-Abdalkader/
 - **Location:** Cairo, Egypt
