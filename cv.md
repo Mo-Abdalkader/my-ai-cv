@@ -82,7 +82,7 @@ Currently open to exciting AI/ML opportunities — remote or on-site.
 
 ### NeuralChat — Multi-Provider LLM Chatbot ⭐ LLM Project
 **Stack:** FastAPI · LangChain · Cohere · OpenAI · Groq · Gemini · SSE Streaming · Railway
-**Links:** [GitHub](https://github.com/Mo-Abdalkader/NeuralChat) | [Live Demo](https://neural-chat-demo.up.railway.app)
+**Links:** [GitHub](https://github.com/Mo-Abdalkader/NeuralChat) | [Live Demo](https://neuralchat-production.up.railway.app/)
 
 A production-grade full-stack AI chatbot supporting multiple LLM providers with advanced prompting capabilities.
 
@@ -99,7 +99,7 @@ A production-grade full-stack AI chatbot supporting multiple LLM providers with 
 
 ### Mo-Bot — Personal AI Telegram Bot ⭐ LLM Project
 **Stack:** Cloudflare Workers · Groq API · LLaMA 3.3 70B · JavaScript (ESM) · Telegram Bot API
-**Links:** [Try the Bot](https://t.me/MoInfoBot)
+**Links:** [Try the Bot](http://t.me/Mo_Abdalkader_bot)
 
 A production AI assistant that represents Mohamed professionally — answers questions about his background in Arabic, English, and Arabizi (Arabic written in Latin letters).
 
@@ -142,7 +142,7 @@ End-to-end medical AI system combining VLM fine-tuning, multi-agent decision fus
 
 ### Face Recognition & Similarity System
 **Stack:** PyTorch · FaceNet · Hybrid Encoder (GoogleNet + ResNet-18) · Streamlit · CustomTkinter · SQL
-**Links:** [GitHub](https://github.com/Mo-Abdalkader/Face-Recognition) | [Live Demo](https://face-similarity-recognition.streamlit.app/)
+**Links:** [GitHub](https://github.com/Mo-Abdalkader/Face-Recognition-) | [Live Demo](https://facematch-pro.streamlit.app/)
 
 - Hybrid encoder (GoogleNet + ResNet-18) producing **512-dimensional L2-normalized embeddings** trained with Triplet Loss
 - **0.92 accuracy at 15 FPS** on CPU hardware using cosine similarity matching
@@ -166,7 +166,7 @@ End-to-end medical AI system combining VLM fine-tuning, multi-agent decision fus
 
 ### Fast Food Classification System
 **Stack:** EfficientNetB0 · TensorFlow · Transfer Learning · Flask · Streamlit · Plotly
-**Links:** [Live Demo](https://fast-food-cls.streamlit.app/)
+**Links:** [GitHub](https://github.com/Mo-Abdalkader/Fast-Food) | [Live Demo](https://fast-food-cls.streamlit.app/)
 
 - EfficientNetB0 transfer learning model fine-tuned on 15,000 images across **10 food categories**
 - Last 20 layers retrained; early layers frozen to retain low-level ImageNet features
@@ -177,7 +177,7 @@ End-to-end medical AI system combining VLM fine-tuning, multi-agent decision fus
 
 ### MNIST Digit Recognition
 **Stack:** Custom CNN · TensorFlow · Flask · Streamlit · Plotly
-**Links:** [Live Demo](https://mnist-cls.streamlit.app/)
+**Links:** [GitHub](https://github.com/Mo-Abdalkader/MNIST) | [Live Demo](https://mnist-cls.streamlit.app/)
 
 - Custom CNN achieving **~99% accuracy** on MNIST test set with ~150,000 parameters (~400KB model)
 - Architecture: Conv2D (32) → MaxPool → Conv2D (64) → MaxPool → Dense (64) → Dropout → Softmax
@@ -188,6 +188,7 @@ End-to-end medical AI system combining VLM fine-tuning, multi-agent decision fus
 
 ### Lung & Colon Cancer Detection
 **Stack:** DenseNet · Custom CNN · TensorFlow · Flask · Transfer Learning
+**Links:** [GitHub](https://github.com/Mo-Abdalkader/DEPI_Project_M1e)
 
 - Comparative study across 4 model variants: Custom CNN (grayscale/RGB) + DenseNet (grayscale/RGB)
 - **Best result: DenseNet RGB — 99% accuracy, 98% precision, 99% recall** on histopathological images
@@ -198,7 +199,7 @@ End-to-end medical AI system combining VLM fine-tuning, multi-agent decision fus
 
 ### AI-IoT Renewable Energy Prediction *(Graduation Project — IEEE Award)*
 **Stack:** LSTM · GRU · Transformers · Azure IoT Hub · Python
-**Links:** [GitHub](https://github.com/Mo-Abdalkader/Renewable-Energy-Prediction)
+**Links:** [GitHub](https://github.com/Mo-Abdalkader/Graduation_project)
 
 - Python framework benchmarking **21 deep learning architectures** (LSTM, GRU, Transformers) for solar and wind forecasting
 - Achieved **<15% MAPE** on solar/wind energy prediction
