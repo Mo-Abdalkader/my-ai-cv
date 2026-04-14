@@ -74,7 +74,7 @@ Currently open to exciting AI/ML opportunities — remote or on-site.
 
 ### NeuralChat — Multi-Provider LLM Chatbot
 **Stack:** FastAPI · LangChain · Cohere · OpenAI · Groq · SSE Streaming · Railway
-**Links:** [GitHub](https://github.com/Mo-Abdalkader/NeuralChat) | [Live Demo](https://neural-chat-demo.up.railway.app)
+**Links:** [GitHub](https://github.com/Mo-Abdalkader/NeuralChat) | [Live Demo](https://neuralchat-production.up.railway.app/)
 
 - Multi-provider chatbot supporting **Cohere, OpenAI, and Groq** with 10+ models switchable from the UI
 - 5 prompting modes: Zero-Shot, Few-Shot, Chain-of-Thought, Memory Chain, Structured JSON output
@@ -99,14 +99,14 @@ Currently open to exciting AI/ML opportunities — remote or on-site.
 
 ### Face Recognition & Similarity System
 **Stack:** PyTorch · FaceNet · Streamlit · SQL
-**Links:** [GitHub](https://github.com/Mo-Abdalkader/Face-Recognition) | [Live Demo](https://face-similarity-recognition.streamlit.app/)
+**Links:** [GitHub](https://github.com/Mo-Abdalkader/Face-Recognition-) | [Live Demo](https://facematch-pro.streamlit.app/)
 
 - Facial recognition with desktop GUI and SQL database managing 1,000+ identity profiles
 - Cosine similarity matching — **0.92 accuracy at 15 FPS** on CPU hardware
 
 ### AI-IoT Renewable Energy Prediction *(Graduation Project — IEEE Award)*
 **Stack:** LSTM · GRU · Transformers · Azure IoT Hub
-**Links:** [GitHub](https://github.com/Mo-Abdalkader/Renewable-Energy-Prediction)
+**Links:** [GitHub](https://github.com/Mo-Abdalkader/Graduation_project)
 
 - 21 deep learning models for solar and wind energy forecasting — **<15% MAPE**
 - IoT sensor integration with cloud deployment on Azure IoT Hub
